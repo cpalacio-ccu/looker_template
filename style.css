@@ -17,9 +17,9 @@
       -webkit-border-radius: 4px;
       -moz-border-radius: 4px;
       border-radius: 4px;
-      -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-      -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
-      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      -webkit-box-shadow: 4px 4px 10px #00000066;
+      -moz-box-shadow: 4px 4px 10px #00000066;
+      box-shadow: 4px 4px 10px #00000066;
       pointer-events: none;
       font-family: sans-serif;
       font-size: 12px;
@@ -168,7 +168,7 @@
   }
   
   .negative {
-    color: rgb(239, 88, 88);
+    color: #ef5858;
   }
   
   .estimate {
