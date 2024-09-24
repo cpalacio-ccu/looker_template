@@ -54,48 +54,48 @@
   }
   
   th.headerCell {
-    background-color: #205C40;
+    background-color: #64a70b;
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
   
   .headerCell.dimension {
-    background-color: #205C40;
+    background-color: #64a70b;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.pivot {
-    background-color: #205C40;
+    background-color: #64a70b;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.measure {
-    background-color: #205C40;
+    background-color: #64a70b;
     border-left: 1px solid #BDC3C7; 
     color: white;
 
   }
   
   .headerCell.measure.calculation {
-    background-color: #205C40;
+    background-color: #64a70b;
     border-left: 1px solid #BDC3C7;
     color: white;
 
   }
   
   .headerCell.transposed.dimension {
-    background-color: #205C40;
+    background-color: #64a70b;
     color: white;
 
   }
   
   .headerCell.transposed.dimension.merged {
-    background-color: #205C40 !important;
+    background-color: #64a70b !important;
     color: white;
 
   }
