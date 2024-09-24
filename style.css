@@ -136,7 +136,7 @@
   }
   
   .indexCell.transposed.measure {
-    background-color: #e4d0bd;
+    background-color: #BDC3C7;
   }
   
   .indexCell.transposed.calculation {
@@ -152,7 +152,7 @@
   }
   
   .indexCell.transposed.measure.merged {
-    background-color: #e4d0bd !important;
+    background-color: #BDC3C7 !important;
   }
   
   .indexCell.transposed.calculation.merged {
